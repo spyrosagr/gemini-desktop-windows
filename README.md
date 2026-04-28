@@ -77,4 +77,4 @@ The main process captures `session_id` from the first turn's `init` event and pa
 
 ## License
 
-Apache-2.0. Not affiliated with Google.
+MIT License. Not affiliated with Google.
